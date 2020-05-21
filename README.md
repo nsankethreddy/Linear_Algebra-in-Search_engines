@@ -1,3 +1,4 @@
 # Linear Algebra in Search engines
 
-This report contains some information about how and where Linear Algebra is being used in the current search engines.
+This is the report of our semester 4 Linear Algebra project, 'Applications of Linear Algebra in Search Engines'.  
+Project done by [N. Sanketh Reddy](github.com/nsankethreddy) and [Aditi Ahuja](github.com/metonymic-smokey).
